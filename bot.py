@@ -2,7 +2,7 @@ import openpyxl as opx
 import telebot
 
 # Токен бота
-token = "5099638587:AAENpCRcC54VHjxH5vlM9pdCLina04PdZK8"
+token = ""
 
 # Функция самого бота
 def telegram_bot(token):
